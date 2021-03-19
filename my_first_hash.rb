@@ -1,5 +1,5 @@
 def my_hash
-  your_hash={"band"=>"The Smiths", "debut album"=>"The Smiths", "final album"=>"Strangeways Here We Come"}
+  your_hash={"band"=>"The Smiths", "debut album"=>"The Smiths", "debut single"=>"This Charming Man"}
   
 end
 
